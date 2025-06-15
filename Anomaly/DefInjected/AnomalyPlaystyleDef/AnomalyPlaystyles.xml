@@ -7,13 +7,13 @@
   <AmbientHorror.description>TODO</AmbientHorror.description>
   
   <!-- EN: anomaly incidents disabled -->
-  <Disabled.label>TODO</Disabled.label>
+  <Disabled.label>incidents de l'anomanie désactivés</Disabled.label>
   <!-- EN: Anomaly threats do not occur. Good if you don't want to interact with most Anomaly expansion content. -->
   <Disabled.description>TODO</Disabled.description>
   
   <!-- EN: standard with monolith -->
-  <Standard.label>TODO</Standard.label>
+  <Standard.label>standard avec monolithe</Standard.label>
   <!-- EN: The standard Anomaly experience. Anomaly threats are linked to the activation of the void monolith. -->
-  <Standard.description>TODO</Standard.description>
+  <Standard.description>L'experience standard d'Anomaly. Les menaces d'Anomaly sont liés a l'activation du monolithe du vide.</Standard.description>
   
 </LanguageData>
